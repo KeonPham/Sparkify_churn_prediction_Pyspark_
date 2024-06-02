@@ -2,6 +2,8 @@
 
 This Jupyter notebook contains a comprehensive analysis and machine learning pipeline to predict user churn for the fictional music streaming service, Sparkify. The goal is to build a predictive model that identifies users likely to churn based on their behavior and usage patterns.
 
+Here is my blog post on medium: https://medium.com/@khoapha/predicting-user-churn-with-pyspark-a-comprehensive-guide-5210b401daa2
+
 ## Table of Contents
 
 - [Introduction](#introduction)
